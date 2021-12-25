@@ -4,7 +4,7 @@
 ## Sommaire 
 
 * [1. Installation](#Section_1) 
-* [2. Installation](#Section_2) 
+* [2. Views et URLs](#Section_2) 
 
 
 ## 1. Installation<a class="anchor" id="section_1"></a>  
@@ -70,7 +70,7 @@ TEMPLATES = [
 pip install requests
 ````
 
-## 2. Installation<a class="anchor" id="section_2"></a>
+## 2. Views et URLs<a class="anchor" id="section_2"></a>
 
  consume-api-in-django/bookapp/myapp/views.py :
  ````python
